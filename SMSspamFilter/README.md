@@ -8,5 +8,6 @@ Then go the folder in which the app.py exists by changing the directory to the l
 in my case C:\Users\admin cd Desktop/SMSspamFilter/starterFiles
 Run as python app.py
 -> C:\Users\admin cd Desktop/SMSspamFilter/starterFiles python app.py
+
 note: import all the necessary libraries.
 
